@@ -1,4 +1,4 @@
-###  📊 GoExplore – Retail Analytics Project**
+###  📊 GoExplore – Retail Analytics Project
 
 ####  **End-to-End Data Analysis: Google Sheets → BigQuery → Looker Studio**
 
